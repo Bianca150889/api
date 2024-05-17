@@ -6,10 +6,10 @@
     { "id": 4, "casa": "Lufa-Lufa", "url": "https://harrypotter.fandom.com/pt-br/wiki/Lufa-Lufa" }
   ],
   "Fundadores": [
-    { "id": 1, "nome": "Godrico Gryffindor", "Casa": 1 },
-    { "id": 2, "nome": "Salazar Slytherin", "Casa": 2 },
-    { "id": 3, "nome": "Rowena Ravenclaw", "Casa": 3 },
-    { "id": 4, "nome": "Helga Hufflepuff", "Casa": 4 },
+    { "id": 1, "nome": "Godrico Gryffindor", "casa": 1 },
+    { "id": 2, "nome": "Salazar Slytherin", "casa": 2 },
+    { "id": 3, "nome": "Rowena Ravenclaw", "casa": 3 },
+    { "id": 4, "nome": "Helga Hufflepuff", "casa": 4 },
   ],
   "HP": {
     "nome": "Code Prestige"
